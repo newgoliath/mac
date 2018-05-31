@@ -1,0 +1,1 @@
+../../dotfiles/home/synergy_restart.sh
